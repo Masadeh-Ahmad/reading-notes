@@ -10,5 +10,5 @@ Notes and questions from the reading assignments throughout my course.
 |The Command Line Task|[The Command Line Task](/CL/README.md)|
 |Unit Testing|[Unit Testing](/Unit-Testing/README.md)|
 |LINQ|[LINQ](/LINQ/README.md)|
-|Stacks & Queues|[Stacks & Queues](/Stacks & Queues/README.md)|
+|Stacks & Queues|[Stacks&Queues](/Stacks&Queues/README.md)|
 
