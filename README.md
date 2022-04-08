@@ -11,4 +11,4 @@ Notes and questions from the reading assignments throughout my course.
 |Unit Testing|[Unit Testing](/Unit-Testing/README.md)|
 |LINQ|[LINQ](/LINQ/README.md)|
 |Stacks & Queues|[Stacks&Queues](/Stacks&Queues/README.md)|
-
+|Collections|[Collections](/Collections/README.md)|
