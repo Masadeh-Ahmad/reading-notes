@@ -13,3 +13,4 @@ Notes and questions from the reading assignments throughout my course.
 |Stacks & Queues|[Stacks&Queues](/Stacks&Queues/README.md)|
 |Collections|[Collections](/Collections/README.md)|
 |DBMS|[DBMS](/DBMS/README.md)|
+| Entity-Framework-Core-and-APIs|[Entity-Framework-Core-and-APIs](/Entity-Framework-Core-and-APIs/README.md)|
